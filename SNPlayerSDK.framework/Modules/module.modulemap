@@ -1,0 +1,6 @@
+framework module SNPlayerSDK {
+  umbrella header "SNPlayerSDK.h"
+
+  export *
+  module * { export * }
+}
